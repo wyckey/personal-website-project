@@ -1,0 +1,15 @@
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(23, 139, 139);
+  text-align: center;
+}
+
+span {
+  color:palevioletred;
+  font-weight: bold;
+}
+
+a:hover {
+  background-color: palevioletred;
+  font-size: 18px;
+}
